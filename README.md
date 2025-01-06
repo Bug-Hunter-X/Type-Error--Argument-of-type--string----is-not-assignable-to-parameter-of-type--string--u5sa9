@@ -1,0 +1,1 @@
+This repository demonstrates a common TypeScript error: passing an argument of the wrong type to a function. The `greeter` function expects a string, but the code attempts to pass an array. This results in a type error.  The solution demonstrates how to correctly type the `user` variable or modify the `greeter` function to handle different data types.
